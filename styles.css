@@ -3,5 +3,5 @@ table,tr,td{
 	border: 1px solid black;
 }
 th,td{
-	background-color: yellow;
+	background-color: rgb(255, 255, 0);
 }
